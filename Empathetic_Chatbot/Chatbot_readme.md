@@ -46,4 +46,4 @@ To fine-tune a small language model (DistilGPT2) using real human dialogue data 
 3. Generation parameters (top-p, temperature, etc.) were tuned for empathy and coherence.
 
 
-
+## The model is trained locally and excluded due to GitHub's file size limits. You can re-run the notebook to train or load the model.
