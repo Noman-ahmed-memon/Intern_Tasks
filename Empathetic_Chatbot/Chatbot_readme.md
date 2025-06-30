@@ -44,3 +44,5 @@ To fine-tune a small language model (DistilGPT2) using real human dialogue data 
 1. Input a user message (e.g., "I'm feeling anxious lately.")
 2. The model generates a short, supportive response.
 3. Generation parameters (top-p, temperature, etc.) were tuned for empathy and coherence.
+
+"The model is trained locally and excluded due to GitHub's file size limits. You can re-run the notebook to train or load the model."
